@@ -4,9 +4,10 @@ body{
 
 }
 
-h1{
+div{
     color: rgb(251, 251, 202);
-    font-size: 50px;
+    font-size: 35px;
+    
 }
 
 *{
